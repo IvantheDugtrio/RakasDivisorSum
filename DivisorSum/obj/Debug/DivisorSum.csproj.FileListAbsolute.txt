@@ -1,0 +1,8 @@
+F:\Dev\RakasDivisorSum\DivisorSum\bin\Debug\DivisorSum.exe.config
+F:\Dev\RakasDivisorSum\DivisorSum\bin\Debug\DivisorSum.exe
+F:\Dev\RakasDivisorSum\DivisorSum\bin\Debug\DivisorSum.pdb
+F:\Dev\RakasDivisorSum\DivisorSum\obj\Debug\DivisorSum.DivisorUI.resources
+F:\Dev\RakasDivisorSum\DivisorSum\obj\Debug\DivisorSum.Properties.Resources.resources
+F:\Dev\RakasDivisorSum\DivisorSum\obj\Debug\DivisorSum.csproj.GenerateResource.Cache
+F:\Dev\RakasDivisorSum\DivisorSum\obj\Debug\DivisorSum.exe
+F:\Dev\RakasDivisorSum\DivisorSum\obj\Debug\DivisorSum.pdb

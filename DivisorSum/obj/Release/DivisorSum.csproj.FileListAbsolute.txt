@@ -1,0 +1,9 @@
+F:\Dev\MiscCS\DivisorSum\bin\Release\DivisorSum.exe.config
+F:\Dev\MiscCS\DivisorSum\bin\Release\DivisorSum.exe
+F:\Dev\MiscCS\DivisorSum\bin\Release\DivisorSum.pdb
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.csprojResolveAssemblyReference.cache
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.Properties.Resources.resources
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.csproj.GenerateResource.Cache
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.exe
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.pdb
+F:\Dev\MiscCS\DivisorSum\obj\Release\DivisorSum.DivisorUI.resources
